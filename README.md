@@ -2,7 +2,7 @@
 
 ![preview](./github/preview1.png)
 
-Projeto desenvolvido durante o curso Explorer pela Rocketseat!
+> Projeto desenvolvido durante o curso Explorer pela Rocketseat!
 
 [🔗Clique para acessar](https://rodkunz.github.io/first-project-explorer/)
 
