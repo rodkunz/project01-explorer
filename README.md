@@ -1,6 +1,6 @@
 # 🚀 Trilha Explorer
 
-![preview](./preview1.png)
+![preview](./github/preview1.png)
 
 Projeto desenvolvido durante o curso Explorer pela Rocketseat!
 
