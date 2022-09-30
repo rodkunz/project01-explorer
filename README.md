@@ -4,7 +4,7 @@
 
 > Projeto desenvolvido durante o curso Explorer pela Rocketseat!
 
-[🔗Clique para acessar](https://rodkunz.github.io/first-project-explorer/)
+[🔗Clique para acessar](https://rodkunz.github.io/project01-explorer/)
 
 ## 🛠 Tecnologias utilizadas
 
